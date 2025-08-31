@@ -1,0 +1,17 @@
+-e .
+
+unstructured[all-docs]
+pillow
+lxml
+chromadb
+tiktoken
+langchain
+langchain-community
+langchain-openai
+langchain-groq
+python-dotenv
+# poppler   conda install -c conda-forge poppler tesseract libmagic
+# tesseract
+# libmagic
+
+
